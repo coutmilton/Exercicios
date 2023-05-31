@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Montserrat&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5rem;
+    gap: 3rem;
+}
+
+.viewfinder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10rem;
+    gap: 3rem;
+}
+
+.viewfinder p {
+    font-family: 'Chakra Petch', sans-serif;
+    width: 1.8ch;
+    /* Defina um espaçamento fixo para os elementos <p> */
+    text-align: center;
+    /* Centralize o texto dentro dos elementos <p> */
+    color: red;
+}
+
+
+.buttons button {
+    margin: 2rem;
+    padding: 2rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: 1s;
+    background: transparent;
+}
+
+.buttons button:hover {
+    background: black;
+    color: white;
+    transition: .3s;
+}
+
+#thous {
+    color: black;
+    font-size: 3rem;
+    margin-top: 4.5rem;
+}

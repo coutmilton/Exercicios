@@ -1,0 +1,19 @@
+Exercício: Criando um Calendário
+
+Objetivo: Criar um calendário simples que exiba o mês atual com os dias da semana e os números correspondentes.
+
+Requisitos:
+
+Utilize HTML, CSS e JavaScript.
+O calendário deve exibir o mês atual.
+Os dias da semana devem ser exibidos em abreviações (por exemplo, "Mon", "Tue", "Wed", etc.).
+Os números dos dias devem ser exibidos em células.
+Adicione algum estilo para tornar o calendário mais atraente.
+Dicas:
+
+Utilize as funções do JavaScript para obter informações sobre a data atual (por exemplo, new Date()).
+Utilize loops para gerar as células do calendário.
+Utilize classes CSS para estilizar o calendário.
+Você pode começar criando a estrutura básica do HTML com um contêiner para o calendário. 
+Em seguida, utilize JavaScript para gerar dinamicamente as células do calendário com base na data atual. 
+Por fim, adicione estilos CSS para tornar o calendário visualmente agradável.

@@ -1,0 +1,11 @@
+Desafio: Construa um cronômetro simples
+
+Descrição do desafio:
+Seu objetivo é criar um cronômetro que exiba horas, minutos, segundos e milissegundos em uma página HTML. O cronômetro deve ter três botões: "Iniciar", "Pausar" e "Zerar".
+
+Requisitos:
+
+1. Ao clicar no botão "Iniciar", o cronômetro deve começar a contar do zero e atualizar os valores das horas, minutos, segundos e milissegundos a cada milissegundo.
+2. Ao clicar no botão "Pausar", o cronômetro deve pausar a contagem e manter o tempo atual exibido.
+3. Ao clicar no botão "Zerar", o cronômetro deve parar e redefinir todas as contagens para zero.
+4. O cronômetro deve ser visualmente agradável, com um design simples e legível.
